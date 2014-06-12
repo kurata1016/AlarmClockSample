@@ -8,6 +8,7 @@
     <string name="tv_stop_message">STOPボタンを選択</string>
     <string name="tv_ok_message">正解！</string>
     <string name="tv_ng_message">間違い！</string>
+    <string name="tv_count">0</string>
       
     <string name="btn_time">時間設定</string>
     <string name="btn_alarm">アラーム音設定</string>
